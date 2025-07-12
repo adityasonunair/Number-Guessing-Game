@@ -5,6 +5,6 @@ A fun **Number Guessing Game** made with **Python**. Try to guess the right numb
 ## How to Run
 
 1. Download and extract the ZIP file.
-2. Run `guessinggame.py`.
+2. Run `guessing_game.py`.
 
 Enjoy the game! 🎮
